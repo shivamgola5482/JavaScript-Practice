@@ -1,0 +1,17 @@
+div{
+    background-color: cyan;
+    border: 1px solid;
+    border-radius: 2px;
+    color: red;
+    margin: 5px;
+    height: 100px;
+    width: 100px;
+}
+.light{
+    background-color:white;
+    color: black;
+}
+.dark{
+    background-color: black;
+    color: white;
+}

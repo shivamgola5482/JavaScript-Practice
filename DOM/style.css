@@ -1,0 +1,40 @@
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: aqua;
+    margin: 10px;
+}
+.para{
+    color: red;
+    background-color: yellow;
+    font-size: 20px;
+}
+.newclass{
+    background-color: black;
+    color: aliceblue;
+}
+/* #heading{
+    background-color: aquamarine;
+    color: red;
+} */
+ /* .heading{
+background-color: red;
+color: white;
+ } */
+  /* p{
+    color: aqua;
+    background-color: yellow;
+  } */
+/* div{
+    background-color: red;
+    color: yellow;
+} */
+ #box{
+    width: 200px;
+    height: 300px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+ }
